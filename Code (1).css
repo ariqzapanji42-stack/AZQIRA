@@ -1,0 +1,23 @@
+body {
+   background-image: url(one.png);
+   color: Pink;
+}
+ .container-navbar  {
+     background-color:Gray;
+     color:Purple;
+
+ }
+.satu{
+    
+   color:cyan;
+    background-color:red;
+}
+.dua{
+  color:yellow;
+    background-color:blue;
+}
+.tiga{
+  color:blueviolet;
+    background-color:yellow;
+
+}
